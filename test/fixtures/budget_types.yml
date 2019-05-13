@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  budgetType: MyString
+  start_date: 2019-04-23
+  end_date: 2019-04-23
+  service: one
+  user: one
+
+two:
+  budgetType: MyString
+  start_date: 2019-04-23
+  end_date: 2019-04-23
+  service: two
+  user: two

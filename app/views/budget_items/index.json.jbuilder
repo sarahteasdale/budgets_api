@@ -1,0 +1,1 @@
+json.array! @items, partial: 'budget_items/item', as: :item

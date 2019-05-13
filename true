@@ -1,0 +1,2 @@
+Could not find generator 'add_index'. Maybe you meant 'jbuilder', 'channel' or 'mailer'
+Run `rails generate --help` for more options.
